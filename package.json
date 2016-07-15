@@ -1,0 +1,19 @@
+{
+  "name": "deploy-test",
+  "version": "1.0.0",
+  "description": "A mini test project to deploy!",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronpanch/deploy-test.git"
+  },
+  "author": "Aaron Panchal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronpanch/deploy-test/issues"
+  },
+  "homepage": "https://github.com/aaronpanch/deploy-test#readme",
+  "dependencies": {
+    "koa": "^1.2.0"
+  }
+}
